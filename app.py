@@ -6,7 +6,7 @@ import plotly.express as px
 
 DATE_TIME = "date/time"
 DATA_URL = (
-    "./Motor_Vehicle_Collisions_-_Crashes.csv"
+    "https://www.kaggle.com/vadodariyakeyur/motor-vehicle-collisions-nyc?select=Motor_Vehicle_Collisions_-_Crashes.csv"
 )
 
 st.title("Motor Vehicle Collisions in New York City")
